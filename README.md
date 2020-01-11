@@ -6,6 +6,6 @@ Deze githubpagina is voor mijn SQL!
 
 ### Eigen Database Project ###
 
-Is te vinden in de map [EigenDatabaseProject](https://github.com/janmoenens/Databank/tree/master/EigenDatabaseProject)
+Is te vinden in de map [EigenDatabaseProject](https://github.com/janmoenens/SQL-/tree/master/EigenDatabaseProject)
 
 ---
