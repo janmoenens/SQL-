@@ -2,7 +2,7 @@
 
 ---
 
-Mijn DB kan je vinden op deze pagina onder de map [ExamenDatabase](https://github.com/janmoenens/Databank/tree/master/EigenDatabaseProject/ExamenDatabase)
+Mijn DB kan je vinden op deze pagina onder de map [ExamenDatabase](https://github.com/janmoenens/SQL-/tree/master/EigenDatabaseProject/ExamenDatabase)
 
 Mijn SLN kan je vinden op deze pagina onder de naam [ExamenDatabase.sln](https://github.com/janmoenens/SQL-/blob/master/EigenDatabaseProject/ExamenDatabase.sln)
 
